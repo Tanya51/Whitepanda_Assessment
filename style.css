@@ -41,7 +41,7 @@ aside i{
 	cursor:pointer;
 }
 aside > div:nth-child(1){
-	height:80px;
+	height:100px;
 }
 body
 {
@@ -86,6 +86,7 @@ nav img {
 .nav-icon>i{
 	color:#0000007a;
 	font-size:28px;
+	cursor:pointer;
 }
 
 #notification
@@ -98,6 +99,7 @@ nav img {
 	color:white;
 	z-index:3;
 	padding:4px 2px;
+	cursor:pointer;
 }
 
 #d2
@@ -110,6 +112,7 @@ nav img {
 	text-align:center;
 	padding-top:10px;
 	margin-left:10px;
+	cursor:pointer;
 }
 
 #content-container
@@ -181,8 +184,8 @@ button:hover{
 
 .card-header > img
 {
-	height:45px;
-	width:45px;
+	height:70px;
+	width:70px;
 	border-radius:50%;
 }
 
@@ -195,8 +198,9 @@ button:hover{
 }
 
 .card-header >div{
-	padding-top:7px;
+	padding-top:15px;
 	padding-left:20px;
+	font-size:18px;
 }
 
 .card button{
