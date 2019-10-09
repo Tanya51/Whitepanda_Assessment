@@ -48,6 +48,8 @@ body
 	display:flex;
 	flex-direction:row;
 	background:#fdfdfd;
+	min-width:1300px;
+	overflow-y:auto;
 }
 
 .body-container{
